@@ -1,0 +1,480 @@
+
+
+@media (max-width:1199px){
+    .room-content h4{
+        font-size: 2rem;
+        padding-bottom: .3rem;
+    }
+    .room-content h5{
+        font-size: 1.5rem;
+        padding: .3rem;
+    }
+    .room-content{
+        width: 90%;
+        height: 90%;
+        top: 5%;
+        left: 5%;
+        padding: 3rem 1rem;
+    }
+    .room-items{
+        position: relative;
+        height: 450px;
+        margin: 1rem;
+    }
+    .team-card{
+        height: 350px;
+        margin: .5rem .5rem;
+    }
+    .none{
+        display: none;
+    }
+    .touch-wrap{
+        padding: 3rem;
+    }
+    .po h3{
+        font-size: 2.7rem;
+    }
+
+}
+
+
+@media (max-width:992px) {
+    .navbar-nav{
+        align-items: center;
+    }
+    .main-btn{
+        margin-left: 0;
+        margin-top: 1rem;
+        margin-bottom: 1.5rem;
+    }
+    .navbar-nav .nav-item{
+        margin: .2rem 0;
+    }
+    .swiper-slide .sider-caption{
+        width: 80%;
+    }
+    .wel-div{
+        text-align: center;
+    }
+    .wel-div-img{
+        display: none;
+    }
+    .about-wrapper{
+        padding: 6rem 0;
+    }
+
+
+
+
+    .room-content h4{
+        font-size: 1.8rem;
+        padding-bottom: .1rem;
+    }
+    .room-content h5{
+        font-size: 1.5rem;
+        padding: .2rem;
+    }
+    .room-content p{
+        font-size: 1rem;
+        padding: .2rem;
+    }
+    .room-content{
+        text-align: center;
+        width: 90%;
+        height: 90%;
+        top: 5%;
+        left: 5%;
+        padding: 1rem 1rem;
+    }
+    .room-items{
+        position: relative;
+        height: 380px;
+        margin: .5rem;
+    }
+    .room-content button{
+        margin: .5rem 0;
+        font-size: 1rem;
+        padding: .6rem 2.4rem;
+        border: 1.7px solid rgb(255, 255, 255);
+    }
+
+    .team-card{
+        height: 400px;
+        margin: 1.5rem 1rem;
+    }
+    .imag4, .imag3{
+        display: none;
+    }
+    .service-btn{
+        margin: .5rem 0;
+    }
+    .service-right{
+        margin-top: 1rem;
+    }
+    .none{
+        display: inline;
+    }
+
+    .touch-wrap{
+        width: 100%;
+        padding: 2rem;
+    }
+    .po h3{
+        font-size: 2.4rem;
+    }
+    .service-wrap{
+        height: 400px;
+    }
+    .service-right-btn{
+        margin-top: 1.5rem;
+    }
+    .super-btn{
+        margin-top: 35rem;
+        z-index: 0;
+    }
+    .service-right {
+        z-index: 1;
+        margin-top: 0px !important;
+    }
+    .service-left{
+        margin-right: 0px;
+    }
+}
+
+
+
+@media (max-width:768px) {
+    .swiper-slide .sider-caption{
+        width: 85%;
+    }
+    .wel-div{
+        text-align: center;
+    }
+    h1{
+        font-size: 2.6rem;
+        text-transform: uppercase;
+        font-weight: 400;
+    }
+    h3{
+        font-size: 2.4rem;
+    }
+    .explore-btn{
+        font-size: 1rem;
+    }
+
+
+
+
+    .room-content h4{
+        font-size: 2.2rem;
+        padding-bottom: .1rem;
+    }
+    .room-content h5{
+        font-size: 1.8rem;
+        padding: .6rem;
+    }
+    .room-content p{
+        font-size: 1.2rem;
+        padding: .2rem;
+    }
+    .room-content{
+        text-align: left;
+        width: 80%;
+        height: 80%;
+        top: 10%;
+        left: 10%;
+        padding: 1rem 1rem;
+    }
+    .room-wrap{
+        display: block;
+        width: 90%;
+        margin: auto;
+    }
+    .room-items{
+        position: relative;
+        height: 400px;
+        margin: 1.5rem 0;
+    }
+    .imag4, .imag3{
+        display: none;
+    }
+    .imag{
+        height: 380px;
+        /* border: 20px solid white; */
+    }
+    .touch-left{
+        border-right: none;
+        text-align: center;
+    }
+    .touch-right{
+        height: 100%;
+        text-align: center;
+    }
+    .touch-wrap{
+        width: 100%;
+        flex-direction: column-reverse;
+    }
+    .submit-btn{
+        width: 100%;
+        margin-bottom: 2.5rem;
+    }
+    .modal-body{
+        width: 100%;
+        padding-top: 15%;
+    }
+    .modal-body img{
+        height: 80%;
+        width: 100%;
+    }
+    .top-section{
+        height: 300px;
+    }
+    .top-section-data{
+        transform: translate(-50%,5%);
+    }
+    .rooms-wrapper-page{
+        margin-top: -3rem;
+    }
+    .ser-wrap-page{
+        margin-top: -1.5rem;
+    }
+    .team-wrap-page,.images-wrap-page{
+        padding-top: 3rem;
+    }
+    .blog-wrap-page{
+        padding-top: 4rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:575px) {
+    .swiper-slide .sider-caption{
+        width: 90%;
+    }
+    
+    h1{
+        font-size: 2.4rem;
+        text-transform: uppercase;
+        font-weight: 500;
+    }
+    p{
+        font-size: 1.1rem;
+    }
+    h3{
+        font-size: 2rem;
+    }
+    .about-wrapper{
+        padding: 4rem 0;
+    }
+
+
+    .room-content h4{
+        font-size: 2.2rem;
+        padding-bottom: .1rem;
+    }
+    .room-content h5{
+        font-size: 1.8rem;
+        padding: .2rem;
+    }
+    .room-content p{
+        font-size: 1.1rem;
+        padding: .2rem;
+    }
+    .room-content{
+        text-align: center;
+        width: 90%;
+        height: 80%;
+        top: 10%;
+        left: 5%;
+        padding: 1rem 1rem;
+    }
+    .room-wrap{
+        display: block;
+    }
+    .room-items{
+        position: relative;
+        height: 400px;
+        margin: 2rem 0;
+    }
+    .team-card{
+        height: 450px;
+        margin: 1rem 0;
+    }
+    .team-info{
+        margin-top: -5.5rem;
+        padding-top: 1rem;
+        width: 100%;
+    }
+    .imag4, .imag3{
+        display: none;
+    }
+    .imag{
+        height: 380px;
+    }
+    .service-wrap{
+        border: 16px solid #ffffff00;
+    }
+    .service-slider,.service-wrap{
+        height: 400px;
+    }
+    .explore-btn{
+        margin: 0;
+    }
+    .wel-div{
+        width: 92%;
+        margin: auto;
+    }
+    .modal-body{
+        width: 100%;
+        padding-top: 15%;
+    }
+    .modal-body img{
+        height: 80%;
+    }
+    .service-txt-none{
+        display: none;
+    }
+    .service-right-btn{
+        margin-top: 1.2rem;
+    }
+    .service-wrap{
+        height: 350px;
+    }
+    .super-btn{
+        margin-top: 34rem
+    }
+    .rooms-wrapper-page{
+        margin-top: -6rem;
+    }
+    .ser-wrap-page{
+        margin-top: -5rem;
+    }
+    .team-wrap-page,.images-wrap-page{
+        padding-top: 1.5rem;
+    }
+    .blog-wrap-page{
+        padding-top: 2.4rem;
+    }
+}
+
+
+
+
+
+
+
+@media (max-width:412px) {
+    .room-content h4{
+        font-size: 2rem;
+        padding-bottom: .1rem;
+    }
+    .room-content h5{
+        font-size: 1.6rem;
+        padding: .2rem;
+    }
+    .room-content p{
+        font-size: 1.1rem;
+        padding: .5rem;
+    }
+    .room-content{
+        text-align: center;
+        width: 90%;
+        height: 90%;
+        top: 5%;
+        left: 5%;
+        padding: 1rem 1rem;
+    }
+    .room-wrap{
+        display: block;
+    }
+    .room-items{
+        position: relative;
+        height: 400px;
+        margin: 1.8rem 0;
+    }
+    .rooms-wrapper{
+        padding: 4rem 0;
+    }
+    .what{
+        margin-bottom: 0rem;
+    }
+    .team-card{
+        height: 400px;
+        margin: 1rem 0;
+    }
+    .imag4, .imag3{
+        display: none;
+    }
+    .service-slider{
+        margin-top: 34rem;
+        height: 550px;
+    }
+    .service-btn{
+        margin: .5rem 0;
+    }
+    .service-right{
+        margin-top: 1rem;
+    }
+    .service-left{
+        margin-top: .5rem;
+    }
+    .none{
+        display: none;
+    }
+    .service-slider,.service-wrap{
+        height: 380px;
+    }
+    .touch-wrap{
+        padding: 2rem .5rem;
+    }
+    .card img{
+        height: 300px !important;
+    }
+    .blog-none{
+        display: none;
+    }
+    .room-items{
+        height: 350px;
+    }
+    .room-none{
+        display: none;
+    }
+    .wel-div{
+        width: 92%;
+        margin: auto;
+    }
+    .modal-body{
+        width: 100%;
+        padding-top: 30%;
+    }
+    .modal-body img{
+        height: 80%;
+    }
+    .top-section{
+        height: 260px;
+    }
+    .rooms-wrapper-page{
+        margin-top: -4rem;
+    }
+    .ser-wrap-page{
+        margin-top: -6rem;
+    }
+    .team-wrap-page,.images-wrap-page{
+        padding-top: 1rem;
+    }
+    .blog-wrap-page{
+        padding-top: 1.8rem;
+    }
+}
