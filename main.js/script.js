@@ -18,11 +18,6 @@ navBar.forEach(function(a){
   })
 })
 
-
-
-
-
-
 var swiper = new Swiper('.our-service-slider', {
   direction: 'horizontal',
   slidesPerView:1.4,
@@ -49,15 +44,7 @@ var swiper = new Swiper('.our-service-slider', {
   
 });
 
-
-
-
-
-
-
-
 // reviews slider 
-
 var swiper = new Swiper('.review-slide', {
   loop: true,
   autoplay:{
@@ -79,14 +66,6 @@ var swiper = new Swiper('.review-slide', {
     }
   }
 });
-
-
-
-
-
-
-
-
 
 $(document).ready(function(){
   $("a").on('click', function(event) {
